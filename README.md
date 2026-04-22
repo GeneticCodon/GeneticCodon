@@ -31,7 +31,7 @@ Website: [geneticcodon.com](https://geneticcodon.com)
 |---------|-------------|----------|
 | [Glioblastoma Regulome](https://github.com/GeneticCodon/glioblastoma-regulome) | Single-cell dissection of mTOR and interferon signaling in human glioblastoma using scRNA-seq and regulatory network analysis | Python |
 | [Colorectal Hippo Dysbiosis](https://github.com/GeneticCodon/Colorectal_Hippo_Dysbiosis) | Integrated bulk multi-omics study of dysbiosis-linked Hippo/YAP-TAZ activation in colorectal cancer using TCGA-COAD and IBD validation cohort | Python |
-| [PD Project](https://github.com/GeneticCodon/PD-project) | Multi-omics project covering single-cell, bulk transcriptomics, genomics, and structural biology in Parkinson's disease | R |
+| [PD Project](https://github.com/GeneticCodon/PD-project) | Multi-omics project covering single-cell, bulk transcriptomics, genomics, and structural biology in Parkinson disease | R |
 | [Notch Discovery — Breast Cancer](https://github.com/GeneticCodon/notch-discovery-breast-cancer) | Notch signaling analysis in breast cancer | Python |
 
 ---
