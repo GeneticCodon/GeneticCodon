@@ -13,6 +13,7 @@ Website: [geneticcodon.com](https://geneticcodon.com)
 | [Cross-Species Disease Translator](https://github.com/GeneticCodon/cross-species-disease-translator) | Maps model organism genes to human orthologs with disease associations and druggability ratings — Ensembl + Open Targets | Active |
 | [FlowForge-RNA](https://github.com/GeneticCodon/FlowForge-RNA) | Batteries-included bulk RNA-seq pipeline orchestrated from Streamlit — input ENA/GEO accessions, click through stages or run end-to-end | Active |
 | [Quick AnnData Explorer](https://github.com/GeneticCodon/Quick_Anndata_Explorer) | Lightweight tool to quickly explore .h5ad (AnnData) files with summary statistics and visual previews | Active |
+| [Drug Repurposing Explorer](https://github.com/GeneticCodon/drug-repurposing-explorer) | Identifies existing drugs and clinical compounds targeting your genes of interest — Open Targets and ChEMBL powered | Active |
 
 ---
 
